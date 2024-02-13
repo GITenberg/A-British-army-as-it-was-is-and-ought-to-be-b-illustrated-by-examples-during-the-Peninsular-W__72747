@@ -1,0 +1,31 @@
+_repo: A-British-army-as-it-was-is-and-ought-to-be-b-illustrated-by-examples-during-the-Peninsular-W__72747
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Campbell, James, Lt. Col.
+    gutenberg_agent_id: '56793'
+    url: http://www.gutenberg.org/2009/agents/56793
+description: ''
+gutenberg_issued: '2024-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72747'
+language: en
+pgterms:marc904: https://archive.org/details/abritisharmyasi00unkngoog/page/n144/mode/2up
+pgterms:marc905: 20200428004701campbell
+pgterms:marc906: '1840'
+production_note: Brian Coe, Graeme Mackreth and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $bT. & W. Boone, $c1840.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain. Army'
+- !lcc 'UA'
+- GITenberg
+title: 'A British army, as it was,--is,--and ought to be : $b illustrated by examples
+  during the Peninsular War; with observations upon India; the United States of America;
+  Canada; the boundary line; the navy; steam warfare, &c.'
+url: http://www.gutenberg.org/ebooks/72747
